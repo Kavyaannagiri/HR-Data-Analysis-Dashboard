@@ -4,7 +4,7 @@ Interactive HR Analytics Dashboard built using Power BI to analyze workforce, co
 <img width="1152" height="650" alt="HR-Data Analytics-1" src="https://github.com/user-attachments/assets/e57f13da-be01-434c-bdb8-94cd5fe61fec" />
 ## Power BI Dashboard
 
-<a href"https://github.com/Kavyaannagiri/HR-Data-Analysis-Dashboard/blob/main/HR%20Data%20Analytics-1.pbix"<a"Download dashboard Powerbi file"
+<a href="https://github.com/Kavyaannagiri/HR-Data-Analysis-Dashboard/blob/main/HR%20Data%20Analytics-1.pbix">Download dashboard Powerbi file</a>
 ## Tools & Technologies
 - Power BI
 - Power Query
