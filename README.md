@@ -16,3 +16,11 @@ Interactive HR Analytics Dashboard built using Power BI to analyze workforce, co
 - Standardized department, gender, attrition, and payment method values.
 - Corrected date formats and converted salary values into a suitable numeric format.
 - Checked data quality and prepared the dataset for analysis and visualization.
+## Dashboard Development
+
+- Created an interactive HR Analytics dashboard using Power BI.
+- Developed KPI cards to display key workforce metrics.
+- Used DAX measures for employee and compensation analysis.
+- Added charts and visuals to analyze workforce distribution and compensation.
+- Added interactive slicers to filter and explore employee data.
+- Designed the dashboard with a clean and professional layout for easy analysis.
