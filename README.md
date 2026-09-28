@@ -38,3 +38,6 @@ Interactive HR Analytics Dashboard built using Power BI to analyze workforce, co
 - Analyzed employee satisfaction and performance patterns.
 - Used interactive filters to explore HR metrics from different perspectives.
 - The dashboard provides a clear overview of workforce and compensation-related trends.
+## Conclusion
+
+This project demonstrates how Power BI can be used to transform raw HR data into an interactive and meaningful dashboard. It provided practical experience in data cleaning, Power Query, DAX, data visualization, and dashboard development while helping identify workforce, compensation, satisfaction, performance, and attrition trends.
