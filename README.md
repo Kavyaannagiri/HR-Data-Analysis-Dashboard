@@ -9,3 +9,10 @@ Interactive HR Analytics Dashboard built using Power BI to analyze workforce, co
 - DAX
 - Data Cleaning & Transformation
 - Data Visualization
+## Data Cleaning & Transformation
+
+- Cleaned and transformed the raw HR dataset using Power Query.
+- Handled missing, null, and inconsistent values.
+- Standardized department, gender, attrition, and payment method values.
+- Corrected date formats and converted salary values into a suitable numeric format.
+- Checked data quality and prepared the dataset for analysis and visualization.
